@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "pingforhelp"
+    },
+    "records": {
+            "CNAME": "pingforhelp.github.io"
+
+    }
+}
